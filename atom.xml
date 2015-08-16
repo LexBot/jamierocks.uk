@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title><![CDATA[Jamie Mansfield]]></title>
+  
+  <link href="/atom.xml" rel="self"/>
+  <link href="http://www.jamierocks.uk/"/>
+  <updated>2015-08-16T13:42:35.986Z</updated>
+  <id>http://www.jamierocks.uk/</id>
+  
+  <author>
+    <name><![CDATA[Jamie Mansfield]]></name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[Spigot at Minecon]]></title>
+    <link href="http://www.jamierocks.uk/2015/08/16/Spigot-at-Minecon/"/>
+    <id>http://www.jamierocks.uk/2015/08/16/Spigot-at-Minecon/</id>
+    <published>2015-08-16T13:42:35.986Z</published>
+    <updated>2015-08-16T13:42:35.986Z</updated>
+    <content type="html"><![CDATA[<p>Once again, Spigot will be exhibiting at Minecon. It was <a href="http://www.spigotmc.org/threads/spigotmc-is-exhibiting-at-minecon-2015.68872/" target="_blank" rel="external">announced</a> last saturday, just 35 days before the event.<br>This is be the second time they have exhibited at Minecon, as they also exhibited last Minecon (2013).</p>
+<p>However exhibiting isn’t cheap, and I ask you (if you can) to <a href="http://www.spigotmc.org/#donate" target="_blank" rel="external">donate</a> to them.<br>Throughout the past months, Spigot has kept Bukkit servers up to date and still running, even if they have done it in ways disliked by many of the community…</p>
+<p>If you would like to find more information about Spigot’s exhibition, see their <a href="http://www.spigotmc.org/threads/minecon-2015-exhibition-info.69644/" target="_blank" rel="external">post</a>.</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>Once again, Spigot will be exhibiting at Minecon. It was <a href="http://www.spigotmc.org/threads/spigotmc-is-exhibiting-at-minecon-2015.]]>
+    </summary>
+    
+      <category term="minecon" scheme="http://www.jamierocks.uk/tags/minecon/"/>
+    
+      <category term="minecraft" scheme="http://www.jamierocks.uk/tags/minecraft/"/>
+    
+      <category term="spigot" scheme="http://www.jamierocks.uk/tags/spigot/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[Visage - An avatar service]]></title>
+    <link href="http://www.jamierocks.uk/2015/05/25/Visage-An-avatar-service/"/>
+    <id>http://www.jamierocks.uk/2015/05/25/Visage-An-avatar-service/</id>
+    <published>2015-05-25T22:51:06.000Z</published>
+    <updated>2015-08-16T13:42:35.986Z</updated>
+    <content type="html"><![CDATA[<p>Not very long ago Lapitar was deprecated in favour of Visage.<br><img src="https://visage.gameminers.com/full/512/3923ded05a0b4dadba834d870cb3e328.png" alt="Me"><br>Visage is not only a successor to Lapitar, it is also a lot better than Lapitar.<br>This is because of better code, and Visage is backed by better servers.</p>
+<p>Visage like most other avatar services, comes with a variety of different modes. Visage is no exception!</p>
+<p>Firstly there is face. Face is a very simple 2D face view.<br>Next there is head. Head is a perspective 3D head view.<br>There is also bust. Bust is a 3D bust view of the player.<br>You also have full. Full is a full 3D view of the player.<br>Lastly you have skin. Skin is… the skin.</p>
+<p>Visage is the best skin service I have used, and I strongly recommend you <a href="https://visage.gameminers.com/" target="_blank" rel="external">check</a> it out.</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>Not very long ago Lapitar was deprecated in favour of Visage.<br><img src="https://visage.gameminers.com/full/512/3923ded05a0b4dadba834d8]]>
+    </summary>
+    
+      <category term="minecraft" scheme="http://www.jamierocks.uk/tags/minecraft/"/>
+    
+      <category term="visage" scheme="http://www.jamierocks.uk/tags/visage/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[Changes to SOS4]]></title>
+    <link href="http://www.jamierocks.uk/2015/05/25/Changes-to-SOS4/"/>
+    <id>http://www.jamierocks.uk/2015/05/25/Changes-to-SOS4/</id>
+    <published>2015-05-25T22:37:54.000Z</published>
+    <updated>2015-08-16T13:42:35.986Z</updated>
+    <content type="html"><![CDATA[<p>Yesterday it was announced that State Of Sponge Four has been rescheduled to Saturday the 6th of June.<br>It was rescheduled to be a month prior to Minecon.</p>
+<p>You can find more information regarding the reschedule on their <a href="https://forums.spongepowered.org/t/status-update-24-may-2015/7385" target="_blank" rel="external">post</a>.</p>
+<p>I will still watch the stream, and play on any test server.</p>
+<iframe width="400" height="250" src="http://itsalmo.st/#stateofspongefour:embed" scrolling="no" frameborder="0" style="border: 1px solid #dbd8d7"></iframe>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>Yesterday it was announced that State Of Sponge Four has been rescheduled to Saturday the 6th of June.<br>It was rescheduled to be a mont]]>
+    </summary>
+    
+      <category term="minecraft" scheme="http://www.jamierocks.uk/tags/minecraft/"/>
+    
+      <category term="sos" scheme="http://www.jamierocks.uk/tags/sos/"/>
+    
+      <category term="sponge" scheme="http://www.jamierocks.uk/tags/sponge/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[State Of Sponge Four]]></title>
+    <link href="http://www.jamierocks.uk/2015/05/18/State-Of-Sponge-Four/"/>
+    <id>http://www.jamierocks.uk/2015/05/18/State-Of-Sponge-Four/</id>
+    <published>2015-05-18T22:39:53.000Z</published>
+    <updated>2015-08-16T13:42:35.986Z</updated>
+    <content type="html"><![CDATA[<p>Once again SpongePowered have announced their next State Of Sponge, and like last time I will make a blog post about it.<br>In case you don’t know what State of Sponge is it is where the Sponge team come together to talk about their progress in a nice ~2 hour live stream.<br>There is usually a demo server, running the latest build of Sponge, showcasing community and sponge-made plugins.</p>
+<p>The stream should be available on <a href="http://www.twitch.tv/SpongePoweredMC" target="_blank" rel="external">twitch.tv/SpongePoweredMC</a>, however it is recommended you follow them on <a href="https://twitter.com/spongepowered" target="_blank" rel="external">Twitter</a> in case this changes.<br>Permitting the server isn’t as unstable as last time, I will be on there enjoying whatever the Sponge team has created.</p>
+<iframe width="400" height="250" src="http://itsalmo.st/#sos4:embed" scrolling="no" frameborder="0" style="border: 1px solid #dbd8d7"></iframe><br>The date has since been rescheduled - read more <a href="/2015/05/25/Changes-to-SOS4/">here</a>.<br><br>You can find more information about State Of Sponge Four on their <a href="https://forums.spongepowered.org/t/sponge-status-update-17-may-2015" target="_blank" rel="external">post</a>.<br><br>Beyond State of Sponge they have made their Minecon submission public.<br>Hopefully they will get their place in Minecon as they so rightfully deserve.<br><br><iframe width="560" height="315" src="https://www.youtube.com/embed/vAfzLFf7wrY" frameborder="0" allowfullscreen></iframe>
+
+<p>State of Sponge Four has finished now, however you can still watch it.</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iZ40YJ8adZE" frameborder="0" allowfullscreen></iframe>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>Once again SpongePowered have announced their next State Of Sponge, and like last time I will make a blog post about it.<br>In case you d]]>
+    </summary>
+    
+      <category term="minecraft" scheme="http://www.jamierocks.uk/tags/minecraft/"/>
+    
+      <category term="sos" scheme="http://www.jamierocks.uk/tags/sos/"/>
+    
+      <category term="sponge" scheme="http://www.jamierocks.uk/tags/sponge/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[State Of Sponge Three]]></title>
+    <link href="http://www.jamierocks.uk/2015/04/25/State-Of-Sponge-Three/"/>
+    <id>http://www.jamierocks.uk/2015/04/25/State-Of-Sponge-Three/</id>
+    <published>2015-04-25T19:09:21.000Z</published>
+    <updated>2015-08-16T13:42:35.986Z</updated>
+    <content type="html"><![CDATA[<p>In little over 2 hours, State of Sponge Three will commence.<br>As usual I will watch and probably play on the server (if there is one).</p>
+<p>For more information, see Sponge’s <a href="https://forums.spongepowered.org/t/sponge-status-update-18th-april-2015/6733" target="_blank" rel="external">post</a> on this.</p>
+<iframe width="400" height="250" src="http://itsalmo.st/#sos3:embed" scrolling="no" frameborder="0" style="border: 1px solid #dbd8d7"></iframe>
+
+<p>For those of you who were unable to watch…</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/a54ny12Tr54" frameborder="0" allowfullscreen></iframe>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>In little over 2 hours, State of Sponge Three will commence.<br>As usual I will watch and probably play on the server (if there is one).<]]>
+    </summary>
+    
+      <category term="minecraft" scheme="http://www.jamierocks.uk/tags/minecraft/"/>
+    
+      <category term="sos" scheme="http://www.jamierocks.uk/tags/sos/"/>
+    
+      <category term="sponge" scheme="http://www.jamierocks.uk/tags/sponge/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[Introducing NeptunePowered]]></title>
+    <link href="http://www.jamierocks.uk/2015/04/18/Introducing-NeptunePowered/"/>
+    <id>http://www.jamierocks.uk/2015/04/18/Introducing-NeptunePowered/</id>
+    <published>2015-04-18T20:53:38.000Z</published>
+    <updated>2015-08-16T13:42:35.986Z</updated>
+    <content type="html"><![CDATA[<h2 id="What_is_NeptunePowered?">What is <a href="http://www.neptunepowered.org/" target="_blank" rel="external">NeptunePowered</a>?</h2><p>  NeptunePowered is all about providing the best Minecraft can offer.<br>  We accomplish this by taking the best of Minecraft today, and preparing it for tomorrow.<br>  Currently we are working on Neptune, described below.</p>
+<h2 id="What_do_we_do?">What do we do?</h2><p>  Neptune currently develops the following:</p>
+<ul>
+<li><a href="https://github.com/NeptunePowered/NeptuneVanilla" target="_blank" rel="external">NeptuneVanilla</a></li>
+<li><a href="https://github.com/NeptunePowered/NeptuneForge" target="_blank" rel="external">NeptuneForge</a></li>
+<li><a href="https://github.com/NeptunePowered/NeptuneLib" target="_blank" rel="external">NeptuneLib</a></li>
+</ul>
+<h2 id="What_is_NeptuneVanilla?">What is NeptuneVanilla?</h2><p>  NeptuneVanilla is an implementation of <a href="http://canarymod.net/" target="_blank" rel="external">CanaryLib</a> for ‘vanilla’ Minecraft.<br>  Doing the same thing as CanaryMod, NeptuneVanilla differs in implementation and how closely it resembles ‘vanilla’ Minecraft.</p>
+<h2 id="What_is_NeptuneForge?">What is NeptuneForge?</h2><p>  NeptuneForge is an implementation of <a href="http://canarymod.net/" target="_blank" rel="external">CanaryLib</a> for <a href="http://www.minecraftforge.net/" target="_blank" rel="external">Minecraft Forge</a>.</p>
+<h2 id="What_is_NeptuneLib?">What is NeptuneLib?</h2><p>  NeptuneLib is an extension to CanaryLib, designed to aid the development of plugins.<br>  NeptuneLib will be distributed as a plugin to encourage small sized plugins.</p>
+<h2 id="What_about_Arno?">What about Arno?</h2><p>  Arno was renamed and lives on through NeptuneForge.<br>  Little change was made during the transition to Neptune. The major one being it is now powered by NeptuneCommon.</p>
+<h2 id="Contact_us">Contact us</h2><p>  You are able to contact us in our public IRC channels: <a href="https://kiwiirc.com/client/irc.esper.net/?#neptune" target="_blank" rel="external">#neptune</a> and <a href="https://kiwiirc.com/client/irc.esper.net/?#neptunedev" target="_blank" rel="external">#neptunedev</a> (irc.esper.net).<br>  You can also contact us through our public email: <a href="mailto:contact@neptunepowered.org" target="_blank" rel="external">contact@neptunepowered.org</a>.</p>
+<p>We are looking for developers interesting in shaping the future of Neptune: <a href="https://goo.gl/forms/m1ZWEM6Qu8" target="_blank" rel="external">sign up</a>.</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<h2 id="What_is_NeptunePowered?">What is <a href="http://www.neptunepowered.org/" target="_blank" rel="external">NeptunePowered</a>?</h2><p>]]>
+    </summary>
+    
+      <category term="arno" scheme="http://www.jamierocks.uk/tags/arno/"/>
+    
+      <category term="canary" scheme="http://www.jamierocks.uk/tags/canary/"/>
+    
+      <category term="minecraft" scheme="http://www.jamierocks.uk/tags/minecraft/"/>
+    
+      <category term="neptuneforge" scheme="http://www.jamierocks.uk/tags/neptuneforge/"/>
+    
+      <category term="neptunepowered" scheme="http://www.jamierocks.uk/tags/neptunepowered/"/>
+    
+      <category term="neptunevanilla" scheme="http://www.jamierocks.uk/tags/neptunevanilla/"/>
+    
+  </entry>
+  
+</feed>
